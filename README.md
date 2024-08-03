@@ -88,6 +88,6 @@ Step-by-step instructions on how to install and run this project locally
 
 ## Feedback
 
-If you have any feedback, please reach out to me at vinodhadmode@gmail.com
+If you have any feedback, please reach out to me at abhishek2132.be21@chitkara.edu.in
 
 
